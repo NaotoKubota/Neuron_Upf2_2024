@@ -1,5 +1,7 @@
 # Neuron_Upf2_2024
 
+[![DOI](https://zenodo.org/badge/779777606.svg)](https://zenodo.org/doi/10.5281/zenodo.10899647)
+
 This repository contains the data analysis code used in the manuscript:
 
 Epistatic Interactions between NMD and TRP53 Control Progenitor Cell Maintenance and Brain Size.<br>
