@@ -13,4 +13,4 @@ Lin Lin, Jingrong Zhao, Naoto Kubota, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu
 
 - [naotokubota/my_notebook:1.4](https://hub.docker.com/repository/docker/naotokubota/my_notebook)
 - [naotokubota/scanpy_jupyter:1.3.6](https://hub.docker.com/repository/docker/naotokubota/scanpy_jupyter)
-- [quay.io/naotokubota/star:2.7.11a--h0033a41_0](https://quay.io/repository/biocontainers/star)
+- [quay.io/biocontainers/star:2.7.11a--h0033a41_0](https://quay.io/repository/biocontainers/star)
