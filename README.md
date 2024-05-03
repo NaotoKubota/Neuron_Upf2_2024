@@ -6,6 +6,7 @@ This repository contains the data analysis code used in the manuscript:
 
 Epistatic Interactions between NMD and TRP53 Control Progenitor Cell Maintenance and Brain Size.<br>
 Lin Lin, Jingrong Zhao, Naoto Kubota, Zhelin Li, Yi-Li Lam, Lauren P. Nguyen, Lu Yang, Sheela P. Pokharel, Steven M. Blue, Brian A. Yee, Renee Chen, Gene W. Yeo, Chun-Wei Chen, Liang Chen, Sika Zheng.<br>
+*Neuron* 2024. https://doi.org/10.1016/j.neuron.2024.04.006
 
 ## Dependencies
 
